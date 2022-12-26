@@ -2,12 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/JavaScript" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bootstrap-final" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/nextjs-course-code" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/nextjs-project" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/pwdev" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Java-Bootcamp-Resources" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/the_game" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/tindog" vcs="Git" />
   </component>
 </project>
